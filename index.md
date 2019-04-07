@@ -2,11 +2,11 @@
 layout: workshop      # DON'T CHANGE THIS.
 root: .               # DON'T CHANGE THIS EITHER.  (THANK YOU.)
 carpentry: "cp"       # what kind of Carpentry (must be either "dc" or "swc")
-venue: "University of Florida"        # brief name of host site without address (e.g., "Euphoric State University")
+venue: "University of Florida, Informatics/Biodiversity Institute"        # brief name of host site without address (e.g., "Euphoric State University")
 address: "Informatics/Biodiversity Institute"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
-latlng: "29.6462438,-82.3474997"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use http://www.latlong.net/)
+latlng: "29.648213,-82.344094"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use http://www.latlong.net/)
 humandate: "Apr 8-9, 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:00 am - 5:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2019-04-08      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
